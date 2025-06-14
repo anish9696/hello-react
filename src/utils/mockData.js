@@ -20,50 +20,6 @@ const resList = [
         lastMileTravelString: "2.8 km",
         iconType: "ICON_TYPE_EMPTY",
       },
-      availability: {
-        nextCloseTime: "2025-06-14 04:00:00",
-        opened: true,
-      },
-      badges: {},
-      isOpen: true,
-      type: "F",
-      badgesV2: {
-        entityBadges: {
-          imageBased: {},
-          textBased: {},
-          textExtendedBadges: {},
-        },
-      },
-      aggregatedDiscountInfoV3: {
-        header: "60% OFF",
-        subHeader: "UPTO ₹120",
-      },
-      differentiatedUi: {
-        displayType: "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-        differentiatedUiMediaDetails: {
-          lottie: {},
-          video: {},
-        },
-      },
-      reviewsSummary: {},
-      displayType: "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-      restaurantOfferPresentationInfo: {},
-      externalRatings: {
-        aggregatedRating: {
-          rating: "3.4",
-          ratingCount: "96",
-        },
-        source: "GOOGLE",
-        sourceIconImageId: "v1704440323/google_ratings/rating_google_tag",
-      },
-      ratingsDisplayPreference: "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
-    },
-    analytics: {
-      context: "seo-data-2945547d-b3b0-4765-8b39-94bb295fd932",
-    },
-    cta: {
-      link: "https://www.swiggy.com/city/noida-1/la-pinoz-pizza-sector-51-rest647279",
-      type: "WEBLINK",
     },
   },
   {
