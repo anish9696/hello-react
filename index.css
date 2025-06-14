@@ -22,14 +22,17 @@
   margin: 10px;
 }
 
+.cuisine-text {
+  display: flex;
+}
 .res-container {
   display: flex;
   flex-wrap: wrap;
 }
 .res-card {
   margin: 5px;
-  width: 200px;
-  height: 300px;
+  width: 266px;
+  height: 350px;
   padding: 5px;
 }
 .res-card:hover {
@@ -42,6 +45,6 @@
 }
 
 .cholla-res {
-  width: 200px;
+  width: 256px;
   height: 120px;
 }
