@@ -18,10 +18,9 @@ const Body = () => {
     );
   };
 
-  if (listOfRestaurants.length === 0) {
-    return <Shimmer></Shimmer>;
-  }
-  return (
+  return listOfRestaurants.length === 0 ? (
+    <Shimmer></Shimmer>
+  ) : (
     <div className="body">
       {/* <div className="search"> Search</div> */}
       <div className="filter">
